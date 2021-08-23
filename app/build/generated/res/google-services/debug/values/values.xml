@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">422493850683-r08m4frun8tk4tpiusdtu4quv9plku7k.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">422493850683</string>
+    <string name="google_api_key" translatable="false">AIzaSyBoZ0XFGcD8gxoe-9Xio6xpTbhXm8NLYq0</string>
+    <string name="google_app_id" translatable="false">1:422493850683:android:dfbe978a4bd9dd86e8a01e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBoZ0XFGcD8gxoe-9Xio6xpTbhXm8NLYq0</string>
+    <string name="google_storage_bucket" translatable="false">pbike-kaminskyi.appspot.com</string>
+    <string name="project_id" translatable="false">pbike-kaminskyi</string>
+</resources>
